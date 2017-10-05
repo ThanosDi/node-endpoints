@@ -1,0 +1,28 @@
+node_modules
+.idea
+*.log
+jest
+.wercker
+.env
+.direnv
+.envrc
+coverage
+.DS_Store
+package-lock.json
+build
+# Vim specifics
+.vimrc
+# Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+
+# Session
+Session.vim
+
+# Temporary
+.netrwhist
+*~
+# Auto-generated tag files
+tags

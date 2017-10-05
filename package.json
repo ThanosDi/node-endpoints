@@ -1,0 +1,15 @@
+{
+  "name": "thanos-endpoints",
+  "version": "1.0.0",
+  "description": "Various endpoints for testing purposes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./api/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The Chat Shop <dev@thechatshop.com> (https://www.thechatshop.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.6.2"
+  }
+}
